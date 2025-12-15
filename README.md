@@ -4,7 +4,7 @@ Arquitetura de Microserviços Reativos com Spring Boot
 Engenharia de Software – Infnet
 
 ## Disciplina
-Arquitetura de Software e Microserviços
+Microsserviços e DevOps com Spring Boot e Spring Cloud
 
 ---
 
