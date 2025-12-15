@@ -10,7 +10,7 @@ Microsserviços e DevOps com Spring Boot e Spring Cloud
 
 ## 📌 Descrição do Projeto
 
-Este projeto tem como objetivo a implementação de uma aplicação baseada em **microserviços**, utilizando os **princípios da programação reativa**, conforme solicitado no enunciado do trabalho prático (TP3).
+Este projeto tem como objetivo a implementação de uma aplicação baseada em **microserviços**, utilizando os **princípios da programação reativa**, conforme solicitado no enunciado do trabalho prático (AT).
 
 A aplicação foi desenvolvida com **Spring Boot**, adotando:
 - Programação reativa com **Spring WebFlux**
